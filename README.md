@@ -1,2 +1,2 @@
 # gw
-ancient wisdom we have learned 
+The ancient wisdom we need to learn.
